@@ -398,6 +398,9 @@ nav li a {
     background: rgba(19, 19, 24, 0.05);
     margin: 0 auto;
 }
+.footer-2{
+    margin: 0 auto;
+}
 
 .footer-website-name {
     justify-content: center;
@@ -436,9 +439,10 @@ nav li a {
 
 /* responsive  */
 @media screen and (max-width: 600px) {
-    .banner {
-        width: 335px;
-        height: 483px;
+    .footer {
+        width: 375px;
+        height: 309px;
         flex-shrink: 0;
+        background: rgba(19, 19, 24, 0.05);
     }
 }
