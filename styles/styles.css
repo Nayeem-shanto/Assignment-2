@@ -438,7 +438,7 @@ nav li a {
 
 
 /* responsive  */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px ) {
     .footer {
         width: 375px;
         height: 309px;
